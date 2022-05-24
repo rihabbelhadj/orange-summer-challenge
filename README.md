@@ -7,6 +7,7 @@
 To complete this challenge, you will need to write a simple web app, and provide us the source files to be built.
 The purpose of this challenge is to assess your skills and approach to composing a simple web app given a set of pages and an API feed.
 We will also assess the generated HTML, CSS, and JS output.
+
 This challenge is expected to take about 4-6 hours.
 
 ### The challenge
