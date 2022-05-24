@@ -115,10 +115,10 @@ First you will have to stage all of your changes by adding them, if your current
 git add .
 ```
 
-Now that the files are staged, commit them to your local repository and include a commit message (note that you do not have to use the same commit message `completed the unix exercise` and you can choose something else that you feel is descriptive and informative, just be sure to keep the `""`):
+Now that the files are staged, commit them to your local repository and include a commit message (note that you do not have to use the same commit message `completed the project` and you can choose something else that you feel is descriptive and informative, just be sure to keep the `""`):
 
 ```
-git commit -m "completed the unix exercise"
+git commit -m "completed the project"
 ```
 
 With the changes committed to your local repository, you can now push them to your remote host on GitHub:
@@ -129,13 +129,11 @@ git push
 
 ### Share your folder by pull request
 
-If you would like to share your notes with the class, add them to the course repository that you had initially forked with a pull request.
-
-This is from Github's [Using Pull Requests Page](https://help.github.com/articles/about-pull-requests/):
+You need to share your work with us, add them to the course repository that you had initially forked with a pull request.
 
 > Pull requests let you tell others about changes you've pushed to a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before the changes are merged into the repository.
 
-Begin by going to [https://github.com/EEOB-BioData/Git-Markdown-Exercise](https://github.com/EEOB-BioData/Git-Markdown-Exercise) and clicking on the **New pull request** button near the top.
+Begin by going to [https://github.com/odc-student/orange-summer-challenge](https://github.com/odc-student/orange-summer-challenge) and clicking on the **New pull request** button near the top.
 
 This will bring you to a page that will allow you to compare across changes. Since you wish to submit changes on a different fork, then click on the hyperlinked phrase **compare across forks**.
 
