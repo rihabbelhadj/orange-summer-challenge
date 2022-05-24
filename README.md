@@ -80,6 +80,8 @@ application with the following requirements:
 └── package.json
 ```
 
+# Let's start
+
 #### Fork the Repository
 
 You need to fork [this](https://github.com/odc-student/orange-summer-challenge) repository.
