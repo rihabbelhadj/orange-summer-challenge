@@ -1,6 +1,6 @@
 # Orange Summer Challenge - 2022
 
-## Assignment
+## Assignment [https://github.com/odc-student/orange-summer-challenge](https://github.com/odc-student/orange-summer-challenge)
 
 ### Overview
 
@@ -17,6 +17,8 @@ This challenge is expected to take about 4-6 hours.
 Build a stock management **MERN** Stack (MongoDB, Express JS, React-Redux, Node JS) web
 application with the following requirements:
 
+- Manager
+
 ❏ As a **manager** I can sign in.
 
 ❏ As a **manager** I can create new user/item.
@@ -26,6 +28,10 @@ application with the following requirements:
 ❏ As a **manager** I can view all the existing users/items.
 
 ❏ As a **manager** I can delete any particular user/item.
+
+- User
+
+❏ As a **user** I can sign in.
 
 ❏ As a **user** I can not see the list of users.
 
