@@ -50,15 +50,16 @@ application with the following requirements:
 - Clean and sustainable code will be appreciated. Code should be readable/easily
 - understandable
 
-### Front end Details
+### Frontend Details
 
-- You will need to build the following 4 pages with React:
+You will need to build the following 4 pages with React:
+
 - A **Login** Page (Manager and User should login to the application to see the data)
 - A **Home** Page (As a user or manager I can see Total Number of items, Only as a manager I can see total number of users )
 - A **Users** Page (Only as a manager I can CRUD users)
 - A **Items** Page (As a manager/user I can CRUD items)
 
-## Back End structure
+## Backend structure
 
 ```sh
 .
