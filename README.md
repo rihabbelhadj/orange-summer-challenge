@@ -55,6 +55,7 @@ application with the following requirements:
 - The application should justify the area of the problem statement
 - Clean and sustainable code will be appreciated. Code should be readable/easily
 - understandable
+- Separate `frontend` and `backend` folders
 
 ### Frontend Details
 
