@@ -29,6 +29,8 @@ application with the following requirements:
 
 ❏ As a **manager** I can delete any particular user/item.
 
+❏ As a **manager** I can sign out.
+
 - User
 
 ❏ As a **user** I can sign in.
@@ -48,6 +50,8 @@ application with the following requirements:
 ❏ As a **user** I can increment and decrement the stock of any particular item.
 
 ❏ As a **user** I can view all the details of any particular item.
+
+❏ As a **user** I can sign out.
 
 ### Instructions
 
